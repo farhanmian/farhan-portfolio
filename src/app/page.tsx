@@ -356,17 +356,17 @@ const Portfolio: React.FC = () => {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-lg text-zinc-300 mb-6 leading-relaxed">
-                  I'm a passionate Frontend Developer with over 3.7 years of
-                  experience building modern, scalable web applications. I
+                  I&apos;m a passionate Frontend Developer with over 3.7 years
+                  of experience building modern, scalable web applications. I
                   specialize in React.js, Next.js, and creating seamless user
                   experiences through thoughtful UI/UX design.
                 </p>
                 <p className="text-lg text-zinc-300 mb-8 leading-relaxed">
                   My expertise spans the full development lifecycle, from
                   requirement analysis and architecture design to deployment and
-                  optimization. I'm committed to writing clean, maintainable
-                  code and staying current with the latest technologies and best
-                  practices.
+                  optimization. I&apos;m committed to writing clean,
+                  maintainable code and staying current with the latest
+                  technologies and best practices.
                 </p>
 
                 <motion.a
@@ -580,7 +580,7 @@ const Portfolio: React.FC = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            Let's Work Together
+            Let&apos;s Work Together
           </motion.h2>
 
           <motion.p
@@ -590,8 +590,9 @@ const Portfolio: React.FC = () => {
             viewport={{ once: true }}
             transition={{ delay: 0.2, duration: 0.8 }}
           >
-            I'm always interested in new opportunities and exciting projects.
-            Let's connect and discuss how we can bring your ideas to life.
+            I&apos;m always interested in new opportunities and exciting
+            projects. Let&apos;s connect and discuss how we can bring your ideas
+            to life.
           </motion.p>
 
           <motion.div
@@ -672,8 +673,7 @@ const Portfolio: React.FC = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            © 2024 Farhan Hussain. Built with Next.js, TypeScript, and Framer
-            Motion.
+            © All rights reserved. Farhan Hussain.
           </motion.p>
         </div>
       </footer>
